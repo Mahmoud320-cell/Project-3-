@@ -1,5 +1,6 @@
 # Project 4
-Var Accept modification
+//Var Accept modification
+// .isEmpty To ask whether
 
 fun main (){
 
