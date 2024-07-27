@@ -15,5 +15,8 @@ fun main (){
     
     var age = 19    
     println(age)
+
+    isBlank = "Safwat".isBlank
+    println(isBlank)
        
 }
